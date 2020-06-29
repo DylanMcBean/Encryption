@@ -1,0 +1,6 @@
+G:\Programming\Encryption\Encryption\bin\Debug\Encryption.exe.config
+G:\Programming\Encryption\Encryption\bin\Debug\Encryption.exe
+G:\Programming\Encryption\Encryption\bin\Debug\Encryption.pdb
+G:\Programming\Encryption\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+G:\Programming\Encryption\Encryption\obj\Debug\Encryption.exe
+G:\Programming\Encryption\Encryption\obj\Debug\Encryption.pdb
